@@ -12,7 +12,7 @@ namespace FirstWinApp.Controllers
    [Authorize]
     public class ValuesController : ControllerBase
     {
-        // GET api/values-- Test merge
+        // GET api/values-- Test merge second change
         [HttpGet]
         // GET api/values
         [HttpGet] //master
