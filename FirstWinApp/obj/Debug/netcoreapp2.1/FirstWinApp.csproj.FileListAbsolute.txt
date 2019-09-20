@@ -1,0 +1,16 @@
+C:\practice\FirstWinApp\FirstWinApp\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\practice\FirstWinApp\FirstWinApp\bin\Debug\netcoreapp2.1\appsettings.json
+C:\practice\FirstWinApp\FirstWinApp\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\practice\FirstWinApp\FirstWinApp\bin\Debug\netcoreapp2.1\FirstWinApp.deps.json
+C:\practice\FirstWinApp\FirstWinApp\bin\Debug\netcoreapp2.1\FirstWinApp.runtimeconfig.json
+C:\practice\FirstWinApp\FirstWinApp\bin\Debug\netcoreapp2.1\FirstWinApp.runtimeconfig.dev.json
+C:\practice\FirstWinApp\FirstWinApp\bin\Debug\netcoreapp2.1\FirstWinApp.dll
+C:\practice\FirstWinApp\FirstWinApp\bin\Debug\netcoreapp2.1\FirstWinApp.pdb
+C:\practice\FirstWinApp\FirstWinApp\obj\Debug\netcoreapp2.1\FirstWinApp.csprojAssemblyReference.cache
+C:\practice\FirstWinApp\FirstWinApp\obj\Debug\netcoreapp2.1\FirstWinApp.RazorAssemblyInfo.cache
+C:\practice\FirstWinApp\FirstWinApp\obj\Debug\netcoreapp2.1\FirstWinApp.RazorAssemblyInfo.cs
+C:\practice\FirstWinApp\FirstWinApp\obj\Debug\netcoreapp2.1\FirstWinApp.AssemblyInfoInputs.cache
+C:\practice\FirstWinApp\FirstWinApp\obj\Debug\netcoreapp2.1\FirstWinApp.AssemblyInfo.cs
+C:\practice\FirstWinApp\FirstWinApp\obj\Debug\netcoreapp2.1\FirstWinApp.RazorTargetAssemblyInfo.cache
+C:\practice\FirstWinApp\FirstWinApp\obj\Debug\netcoreapp2.1\FirstWinApp.dll
+C:\practice\FirstWinApp\FirstWinApp\obj\Debug\netcoreapp2.1\FirstWinApp.pdb
