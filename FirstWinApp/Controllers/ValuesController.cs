@@ -12,10 +12,10 @@ namespace FirstWinApp.Controllers
    [Authorize]
     public class ValuesController : ControllerBase
     {
-        // GET api/values
-        [HttpGet] //master
         // GET api/values-- Test merge
         [HttpGet]
+        // GET api/values
+        [HttpGet] //master
         public ActionResult<IEnumerable<string>> Get()
         {
             return new string[] { "value1", "value2" };
