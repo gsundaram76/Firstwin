@@ -12,6 +12,8 @@ namespace FirstWinApp.Controllers
    [Authorize]
     public class ValuesController : ControllerBase
     {
+        // GET api/values
+        [HttpGet] //master
         // GET api/values-- Test merge
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
