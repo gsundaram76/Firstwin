@@ -13,7 +13,7 @@ namespace FirstWinApp.Controllers
     public class ValuesController : ControllerBase
     {
         // GET api/values
-        [HttpGet]
+        [HttpGet] //master
         public ActionResult<IEnumerable<string>> Get()
         {
             return new string[] { "value1", "value2" };
